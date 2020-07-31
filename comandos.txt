@@ -3,17 +3,9 @@ git clone https://github.com/thsHRM/WEB001_AF.git
 
 cd WEB001_AF
 
-git add nome.txt
+git add *
 
-git add comandos.txt
-
-git commit -m "comittando pela primeira vez"
-
-git config --global user.email "matheuscherem@gmail.com"
-
-git config --global user.name "thsHRM"
-
-git commit -m "comittando de novo porque fiz merda"
+git commit -m "comittando novamente"
 
 git push origin master
 
